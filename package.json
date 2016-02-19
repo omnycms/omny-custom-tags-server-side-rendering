@@ -1,0 +1,7 @@
+{
+  "name": "omny-custom-types",
+  "version": "1.0.0",
+  "dependencies": {
+    "jsdom": "*"
+  }
+}
